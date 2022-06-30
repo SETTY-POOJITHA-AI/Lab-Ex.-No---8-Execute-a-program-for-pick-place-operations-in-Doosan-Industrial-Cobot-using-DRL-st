@@ -31,24 +31,31 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 
 Procedure:
-
+```
 
 1) Place the given object on table (Workspace).
 2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
 3)Move to poin1 using move J
 ............
 
+```
+## PROGRAM :
+```
+// Roll no:212221240050
 
-## Program 
-// Roll no:
-
-//Name:
+//Name:poojithasetty
 MoveJ ................
+```
+![output](1.png)
+![output](2.png)
+![output](3.png)
 
-## output : 
 
+## OUTPUT :
+![output](4.png)
 
-## Results: 
+## RESULT :
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
